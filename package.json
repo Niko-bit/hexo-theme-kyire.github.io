@@ -1,0 +1,25 @@
+{
+  "name": "@shiraha/hexo-theme-ymd45921",
+  "version": "0.0.1-pre",
+  "description": "A fork version of hexo-theme-volantis",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niko-bit/hexo-theme-kyire.github.io.git"
+  },
+  "keywords": [
+    "hexo",
+    "theme",
+    "volantis"
+  ],
+  "author": "ymd45921 (https://github.com/ymd45921/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volantis-x/hexo-theme-volantis/issues"
+  },
+  "homepage": "https://volantis.js.org",
+  "devDependencies": {}
+}
