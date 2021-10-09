@@ -4,7 +4,7 @@
   </a>
 </p> -->
 
-<h1 align="center">Hexo-theme-ymd45921</h1>
+<h1 align="center">Hexo-theme-kyire</h1>
 
 <p align="center">
   A Hexo theme forked from hexo-theme-volantis. 
